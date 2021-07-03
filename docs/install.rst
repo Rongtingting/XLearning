@@ -26,6 +26,7 @@ conda environment.
 .. _pypi: https://pypi.org/project/xlearning
 
 To remove the package, type the following commad,
+
 .. code-block:: bash
 
   pip uninstall xlearning
