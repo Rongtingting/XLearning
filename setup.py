@@ -69,5 +69,6 @@ setup(
     py_modules = ['xlearning']
 
     # buid the distribution: python setup.py sdist
-    # upload to pypi: twine upload dist/...
+    # upload to pypi: 
+    # python3 -m twine upload dist/*
 )
