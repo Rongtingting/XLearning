@@ -36,7 +36,7 @@ setup(
     url='https://github.com/Rongtingting/XLearning',
 
     # Author details
-    author='Authors',
+    author='Rongting Huang',
     author_email='rthuang@connect.hku.hk',
 
     # Choose your license
@@ -69,6 +69,6 @@ setup(
     py_modules = ['xlearning']
 
     # buid the distribution: python setup.py sdist
-    # upload to pypi: 
+    # upload to pypi: twine upload dist/...
     # python3 -m twine upload dist/*
 )
