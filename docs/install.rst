@@ -5,7 +5,7 @@ Installation
 Easy install
 ============
 
-HiLearn is available through `pypi`_. To install, type the following command 
+xlearning is available through `pypi`_. To install, type the following command 
 line, and add ``-U`` for upgrading:
 
 .. code-block:: bash
