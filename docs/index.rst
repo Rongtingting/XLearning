@@ -42,10 +42,3 @@ A small library of machine learning models and utility & plotting functions:
    :hidden:
 
    cross_validation
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
