@@ -3,7 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-   |PyPI| |Docs| 
+
+|PyPI| |Docs| 
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/xlearning.svg
     :target: https://pypi.org/project/xlearning
